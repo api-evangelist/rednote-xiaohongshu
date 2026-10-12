@@ -1,0 +1,16 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/rednote-xiaohongshu/integrations
+- https://n8n.io/integrations/rednote-xiaohongshu/
+- https://composio.dev/toolkits/rednote-xiaohongshu
+- https://monid.ai/tools/rednote-xiaohongshu
+checked:
+- https://composio.dev/toolkits/rednote-xiaohongshu
+- https://monid.ai/tools/rednote-xiaohongshu
+- https://n8n.io/integrations/rednote-xiaohongshu/
+- https://zapier.com/apps/rednote-xiaohongshu/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
